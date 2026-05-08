@@ -103,9 +103,3 @@ The dashboard provides interactive filtering and visualization capabilities for 
 
 This project demonstrates the practical application of data analytics and visualization techniques using Tableau. The dashboard helps users explore app performance metrics and derive actionable insights that can support decision-making for app developers, businesses, and analysts.
 
----
-
-## Author
-
-**Project:** Google Play Store Insights Dashboard  
-**Domain:** Data Analytics & Business Intelligence
